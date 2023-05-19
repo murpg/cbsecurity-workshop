@@ -6,7 +6,7 @@
             },
             "previewLimit": 50,
             "server": "localhost",
-            "port": 43060,
+            "port": 3306,
             "driver": "MySQL",
             "name": "myadmin",
             "database": "myadmin",

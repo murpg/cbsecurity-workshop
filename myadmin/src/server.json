@@ -1,0 +1,8 @@
+{
+    "name":"myadmin",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}
